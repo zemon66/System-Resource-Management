@@ -59,4 +59,3 @@ When you run the program, it will display the current **CPU**, **Memory**, **Dis
 5. **SystemResourceManager**: The main class that manages the monitoring of all resources (CPU, Memory, Disk, and GPU) using multithreading.
 6. **Multithreading**: Utilizes C++11 threads to monitor CPU, memory, disk, and GPU usage simultaneously.
 
-## License
